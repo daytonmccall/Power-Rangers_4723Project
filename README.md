@@ -7,5 +7,5 @@ A tool that separates sequential, diverging and qualitative scales, and it will 
 colour-blind-safe and print-safe options: https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
 
 **MySQL to Streamlit easy connection** -
-This website gives step-by-step instructions to connect the database and gives demon examples:
-https://experimental-connection.streamlit.app/ 
+This website gives step-by-step instructions to connect the database MySQL database to Streamlit:
+https://stconnection.streamlit.app/
